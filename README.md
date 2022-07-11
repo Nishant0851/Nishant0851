@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishant0851
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email - sharmanishant235@gmail.com
 
