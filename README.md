@@ -29,7 +29,7 @@
 ---
 
 ## 🎓 Certifications  
-I’ve built a dedicated [Certifications Repository](https://github.com/yourusername/certifications) where you can find PDFs of all my completed courses.  
+I’ve built a dedicated [Certifications Repository](https://github.com/nishant0851/certifications) where you can find PDFs of all my completed courses.  
 
 
 ## 🔭 Projects I'm Working On  
