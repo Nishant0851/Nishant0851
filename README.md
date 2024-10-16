@@ -28,8 +28,15 @@
 
 ---
 
-## 🎓 Certifications  
-I’ve built a dedicated [Certifications Repository](https://github.com/nishant0851/certifications) where you can find PDFs of all my completed courses.  
+# 🎓 Certifications  
+A collection of certifications I’ve earned throughout my learning journey.  
+
+## 📑 List of Certifications  
+1. [Google Data Analytics Professional Certificate](https://github.com/nishant0851/certifications/blob/main/google_data_analytics.pdf)  
+2. [Python for Data Science - DataCamp](https://github.com/nishant0851/certifications/blob/main/python_for_data_science.pdf)  
+3. [SQL for Data Analysis - LinkedIn Learning](https://github.com/nishant0851/certifications/blob/main/sql_for_data_analysis.pdf)  
+
+Feel free to check out the full collection in the repository!
 
 
 ## 🔭 Projects I'm Working On  
