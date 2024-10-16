@@ -28,6 +28,10 @@
 
 ---
 
+## 🎓 Certifications  
+I’ve built a dedicated [Certifications Repository](https://github.com/yourusername/certifications) where you can find PDFs of all my completed courses.  
+
+
 ## 🔭 Projects I'm Working On  
 - 📊 **Exploratory Data Analysis (EDA)**: Analyzing public datasets to discover trends and patterns.  
 - 🤖 **Beginner Machine Learning Models**: Building basic models like Linear Regression and KNN.  
